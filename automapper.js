@@ -38,3 +38,5 @@ function AutoMap_JsonToObject(jsonObj, product) {
   
 
 };
+
+// Auto Mapper 2016
